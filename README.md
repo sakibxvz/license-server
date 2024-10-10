@@ -3,7 +3,6 @@
 ## Overview
 
 This project is a License Server that manages licenses effectively.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/public/images/license-server.png?raw=true)
 
 # React + TypeScript + Vite
 
