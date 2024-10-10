@@ -3,15 +3,10 @@
 ## Overview
 
 This project is a License Server that manages licenses effectively.
-![License Server](images/license-server.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/public/images/license-server.png?raw=true)
 
 # React + TypeScript + Vite
 
-## Project Structure
-
-Here is the structure of the project:
-
-your-project/ ├── node_modules/ ├── public/ │ └── images/ │ └── license-server.png ├── src/ ├── .env.demo ├── .gitignore ├── components.json ├── data.json ├── eslint.config.js ├── index.html ├── package-lock.json ├── package.json ├── postcss.config.js ├── README.md ├── tailwind.config.js ├── tsconfig.app.json ├── tsconfig.json └── tsconfig.node.json └── vite.config.ts
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
