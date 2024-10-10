@@ -1,0 +1,140 @@
+[
+	{
+		"tittle": "Sold Items",
+		"value": [
+			{
+				"title": "Sold This Month",
+				"value": 1234,
+				"percentage": 10,
+				"isPositive": true
+			},
+			{
+				"title": "Sold This Quarter",
+				"value": 3456,
+				"percentage": 15,
+				"isPositive": true
+			},
+			{
+				"title": "Sold Last Year",
+				"value": 12345,
+				"percentage": 20,
+				"isPositive": true
+			},
+			{
+				"title": "Total Revenue",
+				"value": "$987,654",
+				"percentage": 25,
+				"isPositive": true
+			}
+		]
+	},
+
+	{
+		"tittle": "Lincense",
+		"value": [
+			{
+				"title": "Issued License",
+				"value": 5678,
+				"percentage": 10,
+				"isPositive": true
+			},
+			{
+				"title": "Active License",
+				"value": 5455,
+				"percentage": 15,
+				"isPositive": true
+			},
+			{
+				"title": "Inactive License",
+				"value": 234,
+				"percentage": 5,
+				"isPositive": false
+			}
+		]
+	},
+	{
+		"tittle": "License Details",
+		"licenses": [
+			{
+				"SNo": 1,
+				"licenseName": "Standard License",
+				"issueDate": "2023-01-01",
+				"expireDate": "2024-01-01",
+				"licenseNumber": "STD-001-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 2,
+				"licenseName": "Premium License",
+				"issueDate": "2023-02-15",
+				"expireDate": "2024-02-15",
+				"licenseNumber": "PRM-002-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 3,
+				"licenseName": "Basic License",
+				"issueDate": "2023-03-10",
+				"expireDate": "2024-03-10",
+				"licenseNumber": "BSC-003-2023",
+				"status": "Inactive"
+			},
+			{
+				"SNo": 4,
+				"licenseName": "Enterprise License",
+				"issueDate": "2023-04-05",
+				"expireDate": "2024-04-05",
+				"licenseNumber": "ENT-004-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 5,
+				"licenseName": "Developer License",
+				"issueDate": "2023-05-20",
+				"expireDate": "2024-05-20",
+				"licenseNumber": "DEV-005-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 6,
+				"licenseName": "Team License",
+				"issueDate": "2023-06-15",
+				"expireDate": "2024-06-15",
+				"licenseNumber": "TEM-006-2023",
+				"status": "Inactive"
+			},
+			{
+				"SNo": 7,
+				"licenseName": "Personal License",
+				"issueDate": "2023-07-01",
+				"expireDate": "2024-07-01",
+				"licenseNumber": "PRS-007-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 8,
+				"licenseName": "Student License",
+				"issueDate": "2023-08-10",
+				"expireDate": "2024-08-10",
+				"licenseNumber": "STU-008-2023",
+				"status": "Active"
+			},
+			{
+				"SNo": 9,
+				"licenseName": "Non-Profit License",
+				"issueDate": "2023-09-05",
+				"expireDate": "2024-09-05",
+				"licenseNumber": "NPO-009-2023",
+				"status": "Inactive"
+			},
+			{
+				"SNo": 10,
+				"licenseName": "Trial License",
+				"issueDate": "2023-10-01",
+				"expireDate": "2023-10-31",
+				"licenseNumber": "TRL-010-2023",
+				"status": "Active"
+			}
+		]
+	}
+]
